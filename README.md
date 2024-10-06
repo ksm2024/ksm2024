@@ -31,9 +31,17 @@ Please feel free to clone projects and raise issues if you think something could
 
 Hello! I am an English teacher and a graduate in English Literature, with over 14 years of experience in teaching. Recently, I’ve taken an exciting turn in my career by diving into web development. I am learning to use tools like Visual Studio Code, Django, and Python, incorporating databases into my projects. I am passionate about every aspect of programming and I deeply enjoy creating and customizing solutions that reflect my style and creativity. I’m excited to combine my language skills with the digital world and look forward to exploring this new professional facet.
  
- 💬 Ask me about **English**
 
- 
-⚡ From [ksm2024](https://github.com/ksm2024)
+  
+- 🌍 ** Soy de Santiago, Chile.
+
+- 💼 ** Actualmente, me dedico al desarrollo de aplicaciones web utilizando tecnologías como Node.js, React, y bases de datos como PostgreSQL.
+
+- 🎓 **Tengo formación en Praxis: Bootcamp de Desarrollador Full Stack Python Trainee, y he completado varios proyectos de desarrollo web y backend que puedes revisar en mi portafolio.
+
+- 🔧 ** He trabajado en varios proyectos personales y colaborado en otros de código abierto. Aunque aún no tengo experiencia laboral formal, mi pasión por la programación y mi capacidad de resolver problemas hacen que sea un excelente candidato para proyectos desafiantes.
+
+- 📫 ** Me puedes contactar a través de mi correo electrónico en katherinesm@hotmail.cl o enviándome un mensaje en LinkedIn www.linkedin.com/in/katherine-sm
+
   
 
